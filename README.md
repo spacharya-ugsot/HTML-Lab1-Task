@@ -144,7 +144,7 @@ Within each section, follow the element order specified in its requirements.
 
 ## Output
 
-![alt text](<Screenshot 2026-10-27 at 11.40.57 AM.png>)
+![alt text](<image.png>)
 
 # Question 2
 
